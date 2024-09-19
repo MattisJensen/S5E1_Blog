@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Cloud Engineering Blog</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog about cloud engineering.</description>
+      <language>en-us</language>
+      <managingEditor>address@yoursite.com (undefined)</managingEditor>
+      <webMaster>address@yoursite.com (undefined)</webMaster>
+      <lastBuildDate>Fri, 13 Sep 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/learning-cloud-computing</guid>
+    <title>Learning Cloud Computing @ SDU</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/learning-cloud-computing</link>
+    <description>My experience of learning about the cloud computing continuum, from Infrastructure as a Service (IaaS) to Software as a Service (SaaS).</description>
+    <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (undefined)</author>
+    <category>cloud</category><category>university</category><category>SDU</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/github-markdown-guide</guid>
+    <title>Markdown Guide</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/github-markdown-guide</link>
+    <description>Markdown cheatsheet for all your blogging needs - headers, lists, images, tables and more! An illustrated guide based on GitHub Flavored Markdown.</description>
+    <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (undefined)</author>
+    <category>github</category><category>guide</category>
+  </item>
+
+    </channel>
+  </rss>
