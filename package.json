@@ -3,6 +3,8 @@
   "version": "2.2.0",
   "private": true,
   "scripts": {
+    "startTask2": "next start -p $PORT",
+    "startTask3": "next start -p $PORT",
     "start": "next dev",
     "dev": "cross-env INIT_CWD=$PWD next dev",
     "build": "cross-env INIT_CWD=$PWD next build && cross-env NODE_OPTIONS='--experimental-json-modules' node ./scripts/postbuild.mjs",
@@ -69,6 +71,5 @@
     "*.+(js|jsx|ts|tsx|json|css|md|mdx)": [
       "prettier --write"
     ]
-  },
-  "packageManager": "yarn@3.6.1"
+  }
 }
